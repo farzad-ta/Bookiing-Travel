@@ -1,0 +1,58 @@
+{
+  "name": "my-react-redux-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.67",
+    "@types/react": "^18.2.41",
+    "@types/react-dom": "^18.2.17",
+    "@types/react-redux": "^7.1.31",
+    "@types/redux": "^3.6.0",
+    "@types/styled-components": "^5.1.32",
+    "autoprefixer": "^10.4.16",
+    "axios": "^1.6.2",
+    "firebase": "^10.7.1",
+    "framer-motion": "^10.16.16",
+    "moment-jalali": "^0.3.9",
+    "postcss": "^8.4.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.0",
+    "react-router-dom": "^6.21.1",
+    "react-scripts": "5.0.1",
+    "redux": "^5.0.1",
+    "styled-components": "^6.1.1",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4",
+    "zaman": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
